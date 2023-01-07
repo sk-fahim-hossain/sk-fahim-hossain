@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://github.com/sk-fahim-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://github.com/sk-fahim-hossain" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://github.com/sk-fahim-hossain](https://stackoverflow.com/users/20950176/fahim-hossain)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://github.com/sk-fahim-hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/https://github.com/sk-fahim-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/sk-fahim-hossain" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://github.com/sk-fahim-hossainhttps://github.com/sk-fahim-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://github.com/sk-fahim-hossainhttps://github.com/sk-fahim-hossain" height="30" width="40" /></a>
 <a href="https://medium.com/@sk-fahim-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sk-fahim-hossain" height="30" width="40" /></a>
