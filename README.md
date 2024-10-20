@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, frontend, mern stack,javascript**
 
-- 📫 How to reach me **fahimhossainjob1@gmail.com**
+- 📫 How to reach me **fahim.hossain.dev@gmail.com**
 
 - 📄 Know about my experiences [#resume](#resume)
 
